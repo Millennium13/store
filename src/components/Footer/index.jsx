@@ -35,8 +35,8 @@ const IndexFooter = () => {
         <Box
             sx={{
                 width: '100%',
-                // height: 400,
                 backgroundColor: '#222222',
+                mt: '1.2%',
             }}
         >
             <Box sx={{ flexGrow: 1 }}>
