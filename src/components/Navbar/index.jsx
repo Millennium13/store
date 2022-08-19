@@ -135,7 +135,7 @@ const IndexNavbar = () => {
   return (
     <Box sx={{ position: 'relative' }}>
       <Box sx={{ flexGrow: 1 }}>
-        <AppBar sx={{ backgroundColor: 'gray' }}>
+        <AppBar sx={{ backgroundColor: '#fff' }}>
           <Toolbar>
             <Typography
               variant="h6"
